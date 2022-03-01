@@ -21,7 +21,6 @@ on:
 
 env:
   REPO_URL: https://github.com/kenzok8/openwrt-packages
-  REPO_URL: https://github.com/kenzok8/small
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
